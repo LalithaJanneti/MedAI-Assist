@@ -1,0 +1,3 @@
+node_modules\h3\dist\docs\3.migration\0.index\index.md:42:- `sendError(event, <error>)`: Migrate to `throw createError(<error>)`.
+node_modules\h3-v2\dist\docs\3.migration\0.index\index.md:42:- `sendError(event, <error>)`: Migrate to `throw createError(<error>)`.
+node_modules\nitro\dist\docs\0.docs\15.migration.md:157:- `sendError(event, error)` → `throw createError(error)`
